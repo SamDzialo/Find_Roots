@@ -1,9 +1,7 @@
 """
-file: Roots.py
 author: Sam Dzialo
 Email: sad8333@rit.edu
 language: python3.7
-description: Find roots solution
 """
 import math
 
